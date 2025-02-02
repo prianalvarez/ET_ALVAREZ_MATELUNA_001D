@@ -12,3 +12,7 @@ instalar djangorestframework
 
 correr el programa
     python manage.py runserver
+
+Errores:
+Error en carrito de compras
+Error en registrar usuarios
